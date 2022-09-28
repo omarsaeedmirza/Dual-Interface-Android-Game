@@ -5,7 +5,7 @@ Game allows different input parameters such as speed, number of laps and input m
 
 Designed purely in java, AWT/swing, using android studio. 
 
-#Screenshots
+# Screenshots
 
 ![308706170_1209834446247186_1258788058392106466_n](https://user-images.githubusercontent.com/50313603/192881187-d71f37eb-f235-42c8-ba70-10921398aaab.jpg)
 ![308455286_621160699609512_4266751916619123553_n](https://user-images.githubusercontent.com/50313603/192881205-a2c57c13-e3e0-4f9d-a0f9-a7717972a9d7.jpg)
