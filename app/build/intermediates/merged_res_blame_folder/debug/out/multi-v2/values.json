@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/omar/Downloads/Project4443/Project4443/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/omar/Downloads/Project4443/Project4443/app/src/main/res/values/style.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "359"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "1032",
+                        "endLines": "23",
+                        "endColumns": "12",
+                        "endOffsets": "1336"
+                    }
+                },
+                {
+                    "source": "/Users/omar/Downloads/Project4443/Project4443/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "19,3,10,11,8,5,6,7,9,16,18,17,13,14,15,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "933,56,513,557,374,176,248,300,441,770,882,829,604,657,713,110",
+                        "endColumns": "43,53,43,45,66,71,51,73,71,58,50,52,52,55,56,65",
+                        "endOffsets": "972,105,552,598,436,243,295,369,508,824,928,877,652,708,765,171"
+                    },
+                    "to": {
+                        "startLines": "2,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,156,210,254,300,367,439,491,565,637,696,747,800,853,909,966",
+                        "endColumns": "43,53,43,45,66,71,51,73,71,58,50,52,52,55,56,65",
+                        "endOffsets": "94,205,249,295,362,434,486,560,632,691,742,795,848,904,961,1027"
+                    }
+                },
+                {
+                    "source": "/Users/omar/Downloads/Project4443/Project4443/app/src/main/res/values/ic_launcher_background.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "56",
+                        "endOffsets": "109"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "99",
+                        "endColumns": "56",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

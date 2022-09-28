@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_background"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="#f4d03f"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/setupTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#f4d03f"
+            android:gravity="center_horizontal"
+            android:paddingLeft="10dp"
+            android:paddingTop="20dp"
+            android:paddingRight="10dp"
+            android:paddingBottom="20dp"
+            android:text="@string/resultsTitleText"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="25sp" />
+
+        <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp">
+
+            <TextView
+                android:id="@+id/paramDirectionOfControl"
+                android:gravity="center"
+                android:text="@string/paramlabeldirectionofcontroltext"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <TextView
+                android:id="@+id/paramGain"
+                android:gravity="center"
+                android:text="@string/paramlabelgaintext"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <TextView
+                android:id="@+id/paramNumberOfRounds"
+                android:gravity="center"
+                android:text="@string/paramlabelnumberofroundstext"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <TextView
+                android:id="@+id/paramCurrent"
+                android:gravity="center"
+                android:text="@string/paramlabelcurrenttext"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <TextView
+                android:id="@+id/paramTotalTime"
+                android:gravity="center"
+                android:text="@string/resultsTotalTime"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <TextView
+                android:id="@+id/paramWallHitsRatio"
+                android:gravity="center"
+                android:text="@string/paramlabelwallhitsratiotext"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        </TableLayout>
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/Button01"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="continueNextTrial"
+                android:text="@string/resultsButtonContinue"
+                android:textAppearance="?android:attr/textAppearanceMedium">
+            </Button>
+
+            <Button
+                android:id="@+id/Button02"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="setup"
+                android:text="@string/resultsButtonSetup"
+                android:textAppearance="?android:attr/textAppearanceMedium">
+            </Button>
+
+            <Button
+                android:id="@+id/Button03"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="exit"
+                android:text="@string/resultsButtonExit"
+                android:textAppearance="?android:attr/textAppearanceMedium">
+            </Button>
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>

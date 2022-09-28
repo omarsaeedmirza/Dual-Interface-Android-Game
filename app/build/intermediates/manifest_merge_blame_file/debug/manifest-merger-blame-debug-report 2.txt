@@ -1,0 +1,81 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="ca.yorku.eecs.mack.project"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->/Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.VIBRATE" >
+11-->/Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:7:5-8:23
+11-->/Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:7:22-63
+12    </uses-permission>
+13
+14    <application
+14-->/Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:10:5-40:19
+15        android:allowBackup="false"
+15-->/Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:11:9-36
+16        android:debuggable="true"
+17        android:icon="@mipmap/ic_launcher"
+17-->/Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:12:9-43
+18        android:label="@string/app_name"
+18-->/Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:13:9-41
+19        android:testOnly="true"
+20        android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+20-->/Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:14:9-67
+21        <activity
+21-->/Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:15:9-24:20
+22            android:name="ca.yorku.eecs.mack.project.Setup"
+22-->/Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:16:13-60
+23            android:exported="true"
+23-->/Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:18:13-36
+24            android:label="@string/app_name" >
+24-->/Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:17:13-45
+25            <intent-filter>
+25-->/Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:19:13-23:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->/Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:20:17-69
+26-->/Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:20:25-66
+27                <action android:name="android.intent.action.VIEW" />
+27-->/Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:21:17-69
+27-->/Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:21:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->/Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:22:17-77
+29-->/Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:22:27-74
+30            </intent-filter>
+31        </activity>
+32        <activity
+32-->/Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:25:9-29:20
+33            android:name="ca.yorku.eecs.mack.project.MainActivity"
+33-->/Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:26:13-67
+34            android:label="@string/app_name"
+34-->/Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:27:13-45
+35            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+35-->/Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:28:13-71
+36        </activity>
+37        <activity
+37-->/Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:30:9-34:20
+38            android:name="ca.yorku.eecs.mack.project.MainActivity2"
+38-->/Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:31:13-68
+39            android:label="@string/app_name"
+39-->/Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:32:13-45
+40            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+40-->/Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:33:13-71
+41        </activity>
+42        <activity
+42-->/Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:35:9-39:20
+43            android:name="ca.yorku.eecs.mack.project.ResultsActivity"
+43-->/Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:36:13-70
+44            android:label="@string/app_name"
+44-->/Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:37:13-45
+45            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+45-->/Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:38:13-71
+46        </activity>
+47    </application>
+48
+49</manifest>

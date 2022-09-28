@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:7:5-8:23
+	android:name
+		ADDED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:7:22-63
+application
+ADDED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:10:5-40:19
+	android:label
+		ADDED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:11:9-36
+	android:theme
+		ADDED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:14:9-67
+activity#ca.yorku.eecs.mack.project.Setup
+ADDED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:15:9-24:20
+	android:label
+		ADDED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:17:13-45
+	android:exported
+		ADDED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:18:13-36
+	android:name
+		ADDED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:16:13-60
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:20:25-66
+action#android.intent.action.VIEW
+ADDED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:22:27-74
+activity#ca.yorku.eecs.mack.project.MainActivity
+ADDED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:25:9-29:20
+	android:label
+		ADDED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:27:13-45
+	android:theme
+		ADDED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:28:13-71
+	android:name
+		ADDED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:26:13-67
+activity#ca.yorku.eecs.mack.project.MainActivity2
+ADDED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:30:9-34:20
+	android:label
+		ADDED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:32:13-45
+	android:theme
+		ADDED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:33:13-71
+	android:name
+		ADDED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:31:13-68
+activity#ca.yorku.eecs.mack.project.ResultsActivity
+ADDED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:35:9-39:20
+	android:label
+		ADDED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:37:13-45
+	android:theme
+		ADDED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:38:13-71
+	android:name
+		ADDED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml:36:13-70
+uses-sdk
+INJECTED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml
+INJECTED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml
+INJECTED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml
+INJECTED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml
+		ADDED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml
+		ADDED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/omar/Desktop/4443/Project_Codedpad new/Project_Codedpad/app/src/main/AndroidManifest.xml

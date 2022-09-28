@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorMaze">#e4efe9</color>
+    <color name="ic_launcher_background">#26A69A</color>
+    <string name="app_name">Pacman Maze Game</string>
+    <string name="button01text">OK</string>
+    <string name="button03text">Exit</string>
+    <string name="paramlabelcurrenttext">Attempted trials</string>
+    <string name="paramlabeldirectionofcontroltext">Input mode</string>
+    <string name="paramlabelgaintext">Gain</string>
+    <string name="paramlabelnumberofroundstext">Number of rounds</string>
+    <string name="paramlabelwallhitsratiotext">Wall hits ratio</string>
+    <string name="resultsButtonContinue">continue</string>
+    <string name="resultsButtonExit">Exit</string>
+    <string name="resultsButtonSetup">Setup</string>
+    <string name="resultsTitleText">Results</string>
+    <string name="resultsTotalTime">Total time</string>
+    <string name="resultsWallHits">Wall hits = </string>
+    <string name="setuptitletext">Pacman Maze Game Setup</string>
+    <style name="MyTheme" parent="android:Theme.Light">
+        <item name="android:colorPrimary">@color/ic_launcher_background</item>
+        <item name="android:colorPrimaryDark">@color/ic_launcher_background</item>
+        <item name="android:colorAccent">@color/ic_launcher_background</item>
+    </style>
+</resources>

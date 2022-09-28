@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pacman Maze Game</string>
+    <string name="setuptitletext">Pacman Maze Game Setup</string>
+    <string name="paramlabeldirectionofcontroltext">Input mode</string>
+    <string name="paramlabelgaintext">Gain</string>
+    <string name="paramlabelnumberofroundstext">Number of rounds</string>
+    <string name="paramlabelcurrenttext">Attempted trials</string>
+    <string name="paramlabelwallhitsratiotext">Wall hits ratio</string>
+    <string name="button01text">OK</string>
+    <string name="button03text">Exit</string>
+
+    <string name="resultsTitleText">Results</string>
+    <string name="resultsTotalTime">Total time</string>
+    <string name="resultsWallHits">Wall hits = </string>
+    <string name="resultsButtonContinue">continue</string>
+    <string name="resultsButtonSetup">Setup</string>
+    <string name="resultsButtonExit">Exit</string>
+    <color name="colorMaze">#e4efe9</color>
+
+</resources>

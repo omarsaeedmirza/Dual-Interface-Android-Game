@@ -1,0 +1,7 @@
+#Tue Sep 27 20:40:42 EDT 2022
+base.1=/Users/omar/Downloads/Project4443/Project4443/app/build/intermediates/dex/debug/mergeProjectDexDebug/4/classes.dex
+path.1=4/classes.dex
+base.0=/Users/omar/Downloads/Project4443/Project4443/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=0/classes.dex

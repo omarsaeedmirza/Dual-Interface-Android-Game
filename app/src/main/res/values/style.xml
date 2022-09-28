@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyTheme" parent="android:Theme.Light">
+        <item name="android:colorPrimary">@color/ic_launcher_background</item>
+        <item name="android:colorPrimaryDark">@color/ic_launcher_background</item>
+        <item name="android:colorAccent">@color/ic_launcher_background</item>
+    </style>
+</resources>
+
+
