@@ -3,6 +3,8 @@ Dual Interface android game that allows users to choose thier mode of imput.
 
 Game allows different input parameters such as speed, number of laps and input mode. At the end of each round users are given detail analysis of thier performance. 
 
+Designed purely in java, AWT/swing, using android studio. 
+
 #Screenshots
 
 ![308706170_1209834446247186_1258788058392106466_n](https://user-images.githubusercontent.com/50313603/192881187-d71f37eb-f235-42c8-ba70-10921398aaab.jpg)
